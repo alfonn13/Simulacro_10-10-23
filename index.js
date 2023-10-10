@@ -1,3 +1,8 @@
+/*
+Alfonso Reviejo Valle
+GitHub: https://github.com/alfonn13/Simulacro_10-10-23
+*/
+
 const button = document.getElementById("button");
 
 button.addEventListener("click", function(){
