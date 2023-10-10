@@ -1,0 +1,32 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    text-align: center;
+}
+
+.sup-container{
+    padding: 15px;
+}
+label{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.button{
+    background-color:#007BFF;
+    color: white;
+    height: 45px;
+    width: 220px;
+    margin-bottom: 20px;
+}
+
+.button:hover{
+    background-color: #2d178c;
+    cursor: pointer;
+}
+
+.result{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 28px;
+}
